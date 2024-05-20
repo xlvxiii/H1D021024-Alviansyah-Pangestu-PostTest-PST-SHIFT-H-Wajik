@@ -1,0 +1,4 @@
+1. Servo bekerja dengan menggunakan menggunakan motor penggerak atau dinamo untuk menghasilkan energi kinetik 
+2. LCD (Liquid crystal display) merupakan perangkat yang menggunakan jenis zat liquid crystal yang bekerja dengan memanfaatkan reaksi dari zat tersebut untuk menghasilkan spektrum warna yang digunakan untuk menampilkan pixel pada layar display
+3. Perangkat elektronik cerdas (smart lock, smart lamp, dll), instrumensi medik, vehicle control device, pintu/gate otomatis, perangkat IoT seperti IP camera
+4. Proyek yang akan kelompok kami buat adalah smart lock menggunakan RFID. Sistem ini akan dibuat menggunakan kunci selenoid yang kemudian akan terbuka secara otomatis apa bila RFID scanner mendeteksi RFID tag yang terdaftar pada database. Smart lock ini dilengkapi dengan lcd display yang akan menampilkan identitas pemilik RFID tag ketika membuka kunci dan juga buzzer yang memberi indikasi ketika apabila kunci berhasil atau gagal dibuka.
